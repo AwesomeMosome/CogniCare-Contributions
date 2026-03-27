@@ -19,7 +19,7 @@ Contributed to the development of CogniCare (team project), an app that helps ca
 ## Screenshots
 
 ### Location/Map
-- ![Location/map screenshot](screenshots/location example.png)
+- ![Location/map screenshot](https://github.com/AwesomeMosome/CogniCare-Contributions/blob/7f7d9d83f4e82aafa857bd13cf115b61ba9cc11a/screenshots/location%20example.png)
 
 ### Notification/Pop-up
-- ![Notification/pop-up screenshot](screenshots/notification example.png)
+- ![Notification/pop-up screenshot](https://github.com/AwesomeMosome/CogniCare-Contributions/blob/722a887552db8141c7d018e757587c4ffe85f51a/screenshots/notification%20example.png)
