@@ -15,3 +15,11 @@ Contributed to the development of CogniCare (team project), an app that helps ca
 - Dart
 - Flutter
 - Firebase
+
+## Screenshots
+
+### Location/Map
+- ![Location/map screenshot](screenshots/location example.png)
+
+### Notification/Pop-up
+- ![Notification/pop-up screenshot](screenshots/notification example.png)
